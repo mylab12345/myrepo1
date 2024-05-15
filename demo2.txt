@@ -3,5 +3,10 @@ biudshvffdvvkjfttr
 gfvbfdjvofdnvbdflsg
 ''fvnbdfvbjfdnvkfd
 \vfdvjbfdivfd
+<<<<<<< Updated upstream
 hello guys.............
  
+=======
+how r u buddy
+
+>>>>>>> Stashed changes
